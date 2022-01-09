@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aycan</h1>
-<h3 align="center">A passionate Datascientist from Turkey</h3>
+<h3 align="center">A passionate data scientist from Turkey</h3>
 
 - 🔭 I’m currently working on **Risk and Project Management**
 
